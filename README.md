@@ -1,2 +1,2 @@
-# Feedback_API
-This is a django feedback api.
+# Note Making App
+This is a note making gui made in python using tkinter.
